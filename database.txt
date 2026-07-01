@@ -1,0 +1,8 @@
+Index      Word            FileCount    FileName           WordCount 
+--------------------------------------------------------------------------
+7          hi              2            mithun.txt         3         
+                                        mithun1.txt        2         
+7          hello           2            mithun.txt         1         
+                                        mithun1.txt        2         
+12         mithun          2            mithun.txt         1         
+                                        mithun1.txt        1         
